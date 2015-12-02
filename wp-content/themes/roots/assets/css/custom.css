@@ -1,0 +1,115 @@
+/*
+
+--- Custom CSS for EVENKEELTATTOO ---
+
+*/
+
+body { 
+	background-color: #FFF;
+}
+h1, h2, h3, h4, h5, h6 {
+	margin-top: 0;
+	margin-bottom: 0;
+}
+.banner {
+	/*background-color: #e7e7e7;*/
+	border: none;
+	margin-bottom: 0;
+}
+.btn-primary {
+	padding: 10px 40px;
+}
+
+
+header { }
+
+#menu-primary-navigation {}
+
+#menu-primary-navigation li a {}
+
+#menu-primary-navigation li a:hover {}
+
+#menu-primary-navigation li.active {
+	background-color: #FFF;
+}
+
+/*Home page and Interior page banners*/
+.hero-wrap { }
+
+.interior-banner-wrap {
+	background-color: #2c2c2c;
+	color: #FFF;
+}
+
+h2.front-banner,
+h2.banner {
+	font-size: 22px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.wrap, .post-content-wrap { 
+	padding-top: 40px;
+	padding-bottom: 40px;
+	/*background-color: #e7e7e7;*/
+}
+
+
+/*Global Main Styles*/
+.main { }
+.page-header {
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+/*Front Page Styles*/
+body .page-header {
+	display: none;
+}
+.front-intro {
+	font-size: 18px;
+	line-height: 22px;
+}
+
+
+
+aside { }
+
+
+
+/*Page Specific*/
+
+
+/*About Us Page*/
+body.about .left {
+	padding-left: 0;
+}
+
+
+/*Form Styles*/
+body.contact-us input[type="text"],
+body.contact-us input[type="email"],
+body.contact-us textarea {
+	width: 100%;
+	border: 1px solid #ccc;
+	-moz-border-radius: 8px;
+	-webkit-border-radius: 8px;
+	border-radius: 8px;
+}
+body.contact-us input[type="text"],
+body.contact-us input[type="email"] {
+	height: 40px;
+}
+.footer-wrap {
+	padding-top: 20px;
+	padding-bottom: 20px;
+	background-color: #2c2c2c;
+	color: #FFF;
+}
+
+
+@media( min-width: 992px ) {
+	#menu-primary-navigation {
+		float: right;
+	}
+}

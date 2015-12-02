@@ -1,0 +1,87 @@
+/*Slideshow CSS*/
+.slideshow-wrap .slideshow .button-bar {
+   position: absolute;
+   bottom: -63px;
+   width: 100%;
+}
+.slideshow-wrap .slideshow .button-bar .carousel-indicators {
+   position: relative;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   margin: 0;
+   height: 63px;
+}
+.slideshow-wrap .slideshow .button-bar .carousel-indicators li {
+   width: auto;
+   height: auto;
+   text-indent: 0;
+   border: none;
+   margin: 9px 15px;
+   padding: 2px 28px;
+   border-radius: 0;
+   color: #fff;
+   text-transform: uppercase;
+   font-weight: bold;
+   border: 1px solid #ededed;
+   background-color: #f49eb7;
+}
+.slideshow-wrap .slideshow .button-bar .carousel-indicators h3 {
+   margin: 0;
+   font-weight: bold;
+   font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+.slideshow-wrap .slideshow .button-bar .carousel-indicators h3:active {
+   box-shadow: none;
+   -webkit-box-shadow: none;
+
+}
+.slideshow-wrap .slideshow .button-bar .carousel-indicators li:hover,
+.slideshow-wrap .slideshow .button-bar .carousel-indicators li.active {
+   background-color: #ed1d5a;
+   color: #fff;
+}
+            
+.slideshow-wrap .slideshow .carousel-inner .item {
+   padding: 0 20px;
+}
+.slideshow-wrap .slideshow .carousel-inner .item  img {
+   margin: 0 auto;
+   padding: 12px;
+   border: 1px solid #ededed;
+}
+
+
+.slideshow-wrap .slideshow .carousel-control.left,
+.slideshow-wrap .slideshow .carousel-control.right {
+   background-image: none;
+}
+
+@media ( max-width: 767px ) {
+   
+   .slideshow-wrap .slideshow {
+      padding-bottom: 25px;
+   }
+}
+
+@media ( min-width: 768px ) {
+   .slideshow-wrap .slideshow {
+      padding-bottom: 25px;
+   }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
