@@ -1,0 +1,1599 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2015-09-28 11:18+0400\n"
+"PO-Revision-Date: 2015-09-28 11:18+0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.5\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin-functions.php:80
+msgid "Succesfully Uninstalled!"
+msgstr ""
+
+#: admin-functions.php:86
+msgid "Already Unistalled"
+msgstr ""
+
+#: admin-functions.php:435
+msgid "Click here to get your access token and user ID"
+msgstr ""
+
+#: admin-functions.php:484
+msgid "Access Token"
+msgstr ""
+
+#: admin-functions.php:485
+msgid "Username"
+msgstr ""
+
+#: admin-functions.php:548
+msgid "Database error, please uninstall the plugin and install again"
+msgstr ""
+
+#: admin/controllers/WDIControllerFeeds_wdi.php:241
+msgid "Item Succesfully Duplicated."
+msgstr ""
+
+#: admin/controllers/WDIControllerFeeds_wdi.php:311
+#: admin/controllers/WDIControllerThemes_wdi.php:632
+msgid "Item Succesfully Deleted."
+msgstr ""
+
+#: admin/controllers/WDIControllerFeeds_wdi.php:314
+#: admin/controllers/WDIControllerFeeds_wdi.php:346
+#: admin/controllers/WDIControllerFeeds_wdi.php:383
+#: admin/controllers/WDIControllerThemes_wdi.php:635
+msgid "Error. Please install plugin again."
+msgstr ""
+
+#: admin/controllers/WDIControllerFeeds_wdi.php:331
+#: admin/controllers/WDIControllerThemes_wdi.php:664
+msgid "Items Succesfully Deleted."
+msgstr ""
+
+#: admin/controllers/WDIControllerFeeds_wdi.php:334
+#: admin/controllers/WDIControllerFeeds_wdi.php:371
+#: admin/controllers/WDIControllerFeeds_wdi.php:408
+#: admin/controllers/WDIControllerThemes_wdi.php:668
+msgid "You must select at least one item."
+msgstr ""
+
+#: admin/controllers/WDIControllerFeeds_wdi.php:343
+msgid "Item Succesfully Published."
+msgstr ""
+
+#: admin/controllers/WDIControllerFeeds_wdi.php:368
+msgid "Items Succesfully Published."
+msgstr ""
+
+#: admin/controllers/WDIControllerFeeds_wdi.php:380
+msgid "Item Succesfully Unpublished."
+msgstr ""
+
+#: admin/controllers/WDIControllerFeeds_wdi.php:405
+msgid "Items Succesfully Unpublished."
+msgstr ""
+
+#: admin/controllers/WDIControllerThemes_wdi.php:300
+#: admin/controllers/WDIControllerThemes_wdi.php:327
+#: admin/controllers/WDIControllerThemes_wdi.php:358
+#: admin/controllers/WDIControllerThemes_wdi.php:403
+msgid "Cannot Write on database"
+msgstr ""
+
+#: admin/controllers/WDIControllerThemes_wdi.php:306
+#: admin/controllers/WDIControllerThemes_wdi.php:336
+#: admin/controllers/WDIControllerThemes_wdi.php:366
+msgid "You have not made new changes"
+msgstr ""
+
+#: admin/controllers/WDIControllerThemes_wdi.php:400
+msgid "Please select at least one item"
+msgstr ""
+
+#: admin/controllers/WDIControllerThemes_wdi.php:405
+msgid "Items Succesfully Duplicated."
+msgstr ""
+
+#: admin/controllers/WDIControllerThemes_wdi.php:638
+#: admin/controllers/WDIControllerThemes_wdi.php:659
+msgid "You cannot delete default theme."
+msgstr ""
+
+#: admin/controllers/WDIControllerWidget.php:22
+msgid "Show your instagram feeds in your widget area"
+msgstr ""
+
+#: admin/controllers/WDIControllerWidget.php:27
+msgid "Instagram WD Widget"
+msgstr ""
+
+#: admin/views/WDIViewEditorShortcode.php:100
+msgid "Select Feed:"
+msgstr ""
+
+#: admin/views/WDIViewFeeds_wdi.php:38 admin/views/WDIViewFeeds_wdi.php:307
+msgid "This section allows you to create, edit and delete Feeds."
+msgstr ""
+
+#: admin/views/WDIViewFeeds_wdi.php:39 admin/views/WDIViewFeeds_wdi.php:308
+msgid "Read More in User Manual"
+msgstr ""
+
+#: admin/views/WDIViewFeeds_wdi.php:52 instagram-wd.php:155
+msgid "Feeds"
+msgstr ""
+
+#: admin/views/WDIViewFeeds_wdi.php:56 admin/views/WDIViewThemes_wdi.php:56
+msgid "Add new"
+msgstr ""
+
+#: admin/views/WDIViewFeeds_wdi.php:61 admin/views/WDIViewThemes_wdi.php:61
+msgid "Select All"
+msgstr ""
+
+#: admin/views/WDIViewFeeds_wdi.php:75 admin/views/WDIViewFeeds_wdi.php:96
+#: admin/views/WDIViewThemes_wdi.php:73 admin/views/WDIViewThemes_wdi.php:93
+#: frontend/views/WDIViewGalleryBox.php:1238
+#: frontend/views/WDIViewGalleryBox.php:1266
+#: frontend/views/WDIViewGalleryBox.php:1273
+msgid "Name"
+msgstr ""
+
+#: admin/views/WDIViewFeeds_wdi.php:90
+msgid "Feed"
+msgstr ""
+
+#: admin/views/WDIViewFeeds_wdi.php:99
+msgid "Shortcode"
+msgstr ""
+
+#: admin/views/WDIViewFeeds_wdi.php:100
+msgid "PHP function"
+msgstr ""
+
+#: admin/views/WDIViewFeeds_wdi.php:106
+msgid "Published"
+msgstr ""
+
+#: admin/views/WDIViewFeeds_wdi.php:109 admin/views/WDIViewThemes_wdi.php:104
+msgid "Edit"
+msgstr ""
+
+#: admin/views/WDIViewFeeds_wdi.php:110 admin/views/WDIViewThemes_wdi.php:105
+msgid "Delete"
+msgstr ""
+
+#: admin/views/WDIViewFeeds_wdi.php:205
+msgid "Feed Name"
+msgstr ""
+
+#: admin/views/WDIViewFeeds_wdi.php:205
+msgid "The name of your feed which can be displayed in feed's header section"
+msgstr ""
+
+#: admin/views/WDIViewFeeds_wdi.php:206
+msgid "Theme"
+msgstr ""
+
+#: admin/views/WDIViewFeeds_wdi.php:206
+msgid "The theme of your feed, you can create themes in themes menu"
+msgstr ""
+
+#: admin/views/WDIViewFeeds_wdi.php:207
+msgid "Feed Usernames and Hashtags"
+msgstr ""
+
+#: admin/views/WDIViewFeeds_wdi.php:207
+msgid ""
+"Enter usernames or hashtags to your feed, hashtags must start with #, "
+"username's shouldn't start with @"
+msgstr ""
+
+#: admin/views/WDIViewFeeds_wdi.php:208
+msgid "Feed Display Type"
+msgstr ""
+
+#: admin/views/WDIViewFeeds_wdi.php:208
+msgid "Pagination"
+msgstr ""
+
+#: admin/views/WDIViewFeeds_wdi.php:208
+msgid "Load More Button"
+msgstr ""
+
+#: admin/views/WDIViewFeeds_wdi.php:208
+msgid "Infinite Scroll"
+msgstr ""
+
+#: admin/views/WDIViewFeeds_wdi.php:208
+msgid "How to load and display new images"
+msgstr ""
+
+#: admin/views/WDIViewFeeds_wdi.php:209
+msgid "Sort Images By"
+msgstr ""
+
+#: admin/views/WDIViewFeeds_wdi.php:209
+msgid "Date"
+msgstr ""
+
+#: admin/views/WDIViewFeeds_wdi.php:209
+msgid "Likes"
+msgstr ""
+
+#: admin/views/WDIViewFeeds_wdi.php:209
+msgid "Comments"
+msgstr ""
+
+#: admin/views/WDIViewFeeds_wdi.php:209 framework/WDILibrary.php:767
+msgid "Random"
+msgstr ""
+
+#: admin/views/WDIViewFeeds_wdi.php:209
+msgid "How to sort images"
+msgstr ""
+
+#: admin/views/WDIViewFeeds_wdi.php:210
+msgid "Order By"
+msgstr ""
+
+#: admin/views/WDIViewFeeds_wdi.php:210
+msgid "Sorting order either Ascending or Descending"
+msgstr ""
+
+#: admin/views/WDIViewFeeds_wdi.php:211
+msgid "Follow on Instagram button"
+msgstr ""
+
+#: admin/views/WDIViewFeeds_wdi.php:212
+msgid "Display Header"
+msgstr ""
+
+#: admin/views/WDIViewFeeds_wdi.php:212
+msgid "Displays feed's header, header includes feed name and feed users"
+msgstr ""
+
+#: admin/views/WDIViewFeeds_wdi.php:213
+msgid "Number of Photos to Display"
+msgstr ""
+
+#: admin/views/WDIViewFeeds_wdi.php:213
+msgid "Number of images to load when page loads first time"
+msgstr ""
+
+#: admin/views/WDIViewFeeds_wdi.php:214
+msgid "Number of Photos to Load"
+msgstr ""
+
+#: admin/views/WDIViewFeeds_wdi.php:214
+msgid ""
+"Number of images to load when clicking load more button or triggering "
+"infinite scroll"
+msgstr ""
+
+#: admin/views/WDIViewFeeds_wdi.php:215
+msgid "Number of Columns"
+msgstr ""
+
+#: admin/views/WDIViewFeeds_wdi.php:215
+msgid "Feed item's column count"
+msgstr ""
+
+#: admin/views/WDIViewFeeds_wdi.php:216
+msgid "Resort After Loading New Images"
+msgstr ""
+
+#: admin/views/WDIViewFeeds_wdi.php:216
+msgid "Sort both newly loaded and existing images alltogether"
+msgstr ""
+
+#: admin/views/WDIViewFeeds_wdi.php:217
+msgid "Show Likes"
+msgstr ""
+
+#: admin/views/WDIViewFeeds_wdi.php:218
+msgid "Show Description"
+msgstr ""
+
+#: admin/views/WDIViewFeeds_wdi.php:219
+#: frontend/views/WDIViewGalleryBox.php:2166
+msgid "Show Comments"
+msgstr ""
+
+#: admin/views/WDIViewFeeds_wdi.php:220
+msgid "Show Usernames"
+msgstr ""
+
+#: admin/views/WDIViewFeeds_wdi.php:221
+msgid "Disable Mobile Layout"
+msgstr ""
+
+#: admin/views/WDIViewFeeds_wdi.php:221
+msgid "Column number stays the same in all screens"
+msgstr ""
+
+#: admin/views/WDIViewFeeds_wdi.php:222
+msgid "Image Onclick"
+msgstr ""
+
+#: admin/views/WDIViewFeeds_wdi.php:222
+msgid "Open Lightbox"
+msgstr ""
+
+#: admin/views/WDIViewFeeds_wdi.php:222
+msgid "Redirect To Instagram"
+msgstr ""
+
+#: admin/views/WDIViewFeeds_wdi.php:222
+msgid "Do Nothing"
+msgstr ""
+
+#: admin/views/WDIViewFeeds_wdi.php:224
+msgid "Full width lightbox"
+msgstr ""
+
+#: admin/views/WDIViewFeeds_wdi.php:224 admin/views/WDIViewFeeds_wdi.php:228
+#: admin/views/WDIViewFeeds_wdi.php:230 admin/views/WDIViewFeeds_wdi.php:233
+#: admin/views/WDIViewFeeds_wdi.php:234 admin/views/WDIViewFeeds_wdi.php:236
+#: admin/views/WDIViewFeeds_wdi.php:237 admin/views/WDIViewFeeds_wdi.php:238
+#: admin/views/WDIViewFeeds_wdi.php:239 admin/views/WDIViewFeeds_wdi.php:240
+#: admin/views/WDIViewFeeds_wdi.php:241 admin/views/WDIViewFeeds_wdi.php:242
+#: admin/views/WDIViewFeeds_wdi.php:243 admin/views/WDIViewFeeds_wdi.php:244
+#: admin/views/WDIViewFeeds_wdi.php:245 admin/views/WDIViewFeeds_wdi.php:246
+#: admin/views/WDIViewFeeds_wdi.php:247
+msgid "Yes"
+msgstr ""
+
+#: admin/views/WDIViewFeeds_wdi.php:224 admin/views/WDIViewFeeds_wdi.php:228
+#: admin/views/WDIViewFeeds_wdi.php:230 admin/views/WDIViewFeeds_wdi.php:233
+#: admin/views/WDIViewFeeds_wdi.php:234 admin/views/WDIViewFeeds_wdi.php:236
+#: admin/views/WDIViewFeeds_wdi.php:237 admin/views/WDIViewFeeds_wdi.php:238
+#: admin/views/WDIViewFeeds_wdi.php:239 admin/views/WDIViewFeeds_wdi.php:240
+#: admin/views/WDIViewFeeds_wdi.php:241 admin/views/WDIViewFeeds_wdi.php:242
+#: admin/views/WDIViewFeeds_wdi.php:243 admin/views/WDIViewFeeds_wdi.php:244
+#: admin/views/WDIViewFeeds_wdi.php:245 admin/views/WDIViewFeeds_wdi.php:246
+#: admin/views/WDIViewFeeds_wdi.php:247
+msgid "No"
+msgstr ""
+
+#: admin/views/WDIViewFeeds_wdi.php:225
+msgid "Lightbox Width"
+msgstr ""
+
+#: admin/views/WDIViewFeeds_wdi.php:226
+msgid "Lightbox Height"
+msgstr ""
+
+#: admin/views/WDIViewFeeds_wdi.php:227
+msgid "Lightbox Effect"
+msgstr ""
+
+#: admin/views/WDIViewFeeds_wdi.php:228
+msgid "Lightbox autoplay"
+msgstr ""
+
+#: admin/views/WDIViewFeeds_wdi.php:229
+msgid "Time Interval"
+msgstr ""
+
+#: admin/views/WDIViewFeeds_wdi.php:230
+msgid "Enable filmstrip in lightbox"
+msgstr ""
+
+#: admin/views/WDIViewFeeds_wdi.php:231
+msgid "Filmstrip size"
+msgstr ""
+
+#: admin/views/WDIViewFeeds_wdi.php:232
+msgid "Show Next / Previous Buttons"
+msgstr ""
+
+#: admin/views/WDIViewFeeds_wdi.php:232
+msgid "On Hover"
+msgstr ""
+
+#: admin/views/WDIViewFeeds_wdi.php:232
+msgid "Always"
+msgstr ""
+
+#: admin/views/WDIViewFeeds_wdi.php:233
+msgid "Enable control buttons"
+msgstr ""
+
+#: admin/views/WDIViewFeeds_wdi.php:234
+msgid "Enable fullscreen"
+msgstr ""
+
+#: admin/views/WDIViewFeeds_wdi.php:235
+msgid "Enable info"
+msgstr ""
+
+#: admin/views/WDIViewFeeds_wdi.php:236
+msgid "Display info by default"
+msgstr ""
+
+#: admin/views/WDIViewFeeds_wdi.php:237
+msgid "Full width info"
+msgstr ""
+
+#: admin/views/WDIViewFeeds_wdi.php:238
+msgid "Enable comments"
+msgstr ""
+
+#: admin/views/WDIViewFeeds_wdi.php:239
+msgid "Enable Original Image Display Button"
+msgstr ""
+
+#: admin/views/WDIViewFeeds_wdi.php:240
+msgid "Enable Download Button"
+msgstr ""
+
+#: admin/views/WDIViewFeeds_wdi.php:241
+msgid "Enable Facebook button"
+msgstr ""
+
+#: admin/views/WDIViewFeeds_wdi.php:242
+msgid "Enable Twitter button"
+msgstr ""
+
+#: admin/views/WDIViewFeeds_wdi.php:243
+msgid "Enable Google+ button"
+msgstr ""
+
+#: admin/views/WDIViewFeeds_wdi.php:244
+msgid "Enable Pinterest button"
+msgstr ""
+
+#: admin/views/WDIViewFeeds_wdi.php:245
+msgid "Enable Tumblr button"
+msgstr ""
+
+#: admin/views/WDIViewFeeds_wdi.php:246
+msgid "Show Images Count"
+msgstr ""
+
+#: admin/views/WDIViewFeeds_wdi.php:247
+msgid "Enable Loop"
+msgstr ""
+
+#: admin/views/WDIViewFeeds_wdi.php:283
+msgid "Feed Settings"
+msgstr ""
+
+#: admin/views/WDIViewFeeds_wdi.php:284
+msgid "Lightbox Settings"
+msgstr ""
+
+#: admin/views/WDIViewFeeds_wdi.php:317
+msgid "Edit feed"
+msgstr ""
+
+#: admin/views/WDIViewFeeds_wdi.php:320
+msgid "Add new Feed"
+msgstr ""
+
+#: admin/views/WDIViewFeeds_wdi.php:351
+msgid "Add"
+msgstr ""
+
+#: admin/views/WDIViewFeeds_wdi.php:365 admin/views/WDIViewThemes_wdi.php:524
+msgid "Save"
+msgstr ""
+
+#: admin/views/WDIViewFeeds_wdi.php:367 admin/views/WDIViewThemes_wdi.php:526
+msgid "Apply"
+msgstr ""
+
+#: admin/views/WDIViewFeeds_wdi.php:368 admin/views/WDIViewThemes_wdi.php:527
+#: framework/WDILibrary.php:189 framework/WDILibrary.php:717
+msgid "Reset"
+msgstr ""
+
+#: admin/views/WDIViewSettings_wdi.php:24
+msgid "Instagram WD Settings"
+msgstr ""
+
+#: admin/views/WDIViewSettings_wdi.php:32
+msgid "Delete all plugin related data from database"
+msgstr ""
+
+#: admin/views/WDIViewSettings_wdi.php:33
+msgid "Uninstall"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:38
+msgid "This section allows you to create, edit and delete Themes."
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:39
+msgid "Read More in User Manual."
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:52 instagram-wd.php:156
+msgid "Themes"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:101 framework/WDILibrary.php:764
+msgid "Default"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:178
+msgid "Theme Name"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:180
+msgid "Feed Container Width"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:180
+msgid "Includes all feed elements"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:181
+msgid "Feed Container Background Color"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:182
+msgid "Feed Wrapper Width"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:182
+msgid "Includes only feed images, does not include feed header"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:183
+msgid "Feed Wrapper Background Color"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:184
+msgid "Header Margin"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:185
+msgid "Header Padding"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:186
+msgid "Header Border Size"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:187
+msgid "Header Border Color"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:188
+msgid "Header Position"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:188 admin/views/WDIViewThemes_wdi.php:208
+#: admin/views/WDIViewThemes_wdi.php:223 admin/views/WDIViewThemes_wdi.php:237
+#: admin/views/WDIViewThemes_wdi.php:273 admin/views/WDIViewThemes_wdi.php:287
+#: admin/views/WDIViewThemes_wdi.php:308
+msgid "Left"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:188 admin/views/WDIViewThemes_wdi.php:208
+#: admin/views/WDIViewThemes_wdi.php:223 admin/views/WDIViewThemes_wdi.php:237
+#: admin/views/WDIViewThemes_wdi.php:287
+msgid "Center"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:188 admin/views/WDIViewThemes_wdi.php:208
+#: admin/views/WDIViewThemes_wdi.php:223 admin/views/WDIViewThemes_wdi.php:237
+#: admin/views/WDIViewThemes_wdi.php:273 admin/views/WDIViewThemes_wdi.php:287
+#: admin/views/WDIViewThemes_wdi.php:308
+msgid "Right"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:189
+msgid "Header Image Width"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:190
+msgid "Header Border Radius"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:191
+msgid "Header Text Padding"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:192
+msgid "Header Text Color"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:193
+msgid "Header Font Weight"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:193
+msgid "400 (Normal)"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:194
+msgid "Header Text Font Size"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:195
+msgid "Header Text Font Style"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:196
+msgid "Min Image Width"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:197
+msgid "Max Image Width"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:198
+msgid "User Horizontal Margin"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:199
+msgid "User Padding"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:200 admin/views/WDIViewThemes_wdi.php:204
+msgid "User Border Size"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:201
+msgid "User Border Color"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:202
+msgid "User Border Radius"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:203
+msgid "User Background Color"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:205
+msgid "Users Border Color"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:206
+msgid "Users Background Color"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:208
+msgid "Load More Button Position"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:209
+msgid "Load More Button Padding"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:210
+msgid "Load More Background Color"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:211
+msgid "Load More Button Border Radius"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:212
+msgid "Load More Button Height"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:213
+msgid "Load More Button Width"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:214
+msgid "Load More Button Border Size"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:215
+msgid "Load More Button Border Color"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:216
+msgid "Load More Button Text Color"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:217
+msgid "Load More Button Text Font Size"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:218
+msgid "Load More Button Hover Color"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:219
+msgid "Pagination Color"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:220
+msgid "Pagination Height"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:221
+msgid "Pagination Button Margins"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:222
+msgid "Pagination Hover Color"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:223
+msgid "Pagination Buttons Alignment"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:224
+msgid "Pagination Buttons Position"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:224 admin/views/WDIViewThemes_wdi.php:233
+#: admin/views/WDIViewThemes_wdi.php:273 admin/views/WDIViewThemes_wdi.php:286
+msgid "Top"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:224 admin/views/WDIViewThemes_wdi.php:233
+#: admin/views/WDIViewThemes_wdi.php:273 admin/views/WDIViewThemes_wdi.php:286
+msgid "Bottom"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:227
+msgid "Overlay Background Color"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:228
+msgid "Overlay background transparency"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:229
+msgid "Lightbox Background Color"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:230
+msgid "Control Buttons Height"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:231
+msgid "Control Buttons Margin (top)"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:232
+msgid "Control Buttons Margin (left)"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:233
+msgid "Control Buttons Position"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:234
+msgid "Control Buttons Background Color"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:235
+msgid "Control Buttons Container Border Radius"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:236 admin/views/WDIViewThemes_wdi.php:239
+msgid "Control Buttons Transparency"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:237
+msgid "Control Buttons Alignment"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:238
+msgid "Control Buttons Color"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:241
+msgid "Toggle Button Height"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:242
+msgid "Toggle Button Width"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:243
+msgid "Close Button Border Radius"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:244
+msgid "Close Button Border Width"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:245
+msgid "Close Button Border Style"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:246
+msgid "Close Button Border Color"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:247
+msgid "Close Button Box Shadow"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:248
+msgid "Close Button Background Color"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:249
+msgid "Close Button Transparency"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:250
+msgid "Close Button Width"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:251
+msgid "Close Button Height"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:252
+msgid "Close Button Top"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:253
+msgid "Close Button Right"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:254
+msgid "Close Button Size"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:255
+msgid "Close Button Color"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:256
+msgid "Fullscreen Close Button Color"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:257
+msgid "Share Buttons Color"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:259
+msgid "Right, Left Buttons Style"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:260
+msgid "Right, Left Buttons Background Color"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:261
+msgid "Right, Left Buttons Transparency"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:262
+msgid "Right, Left Buttons Box Shadow: "
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:263
+msgid "Right, Left Buttons Height"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:264
+msgid "Right, Left Buttons Width"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:265
+msgid "Right, Left Buttons Size"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:266
+msgid "Right, Left, Close Buttons Hover Color"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:267
+msgid "Right, Left Buttons Color"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:268
+msgid "Right, Left Buttons Border Radius"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:269
+msgid "Right, Left Buttons Border Width"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:270
+msgid "Right, Left Buttons Border Style"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:271
+msgid "Right, Left Buttons Border Color"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:273
+msgid "Filmstrip Position"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:274
+msgid "Filmstrip Thumbnail Margin"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:275
+msgid "Filmstrip Thumbnail Border Width"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:276
+msgid "Filmstrip Thumbnail Border Style"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:277
+msgid "Filmstrip Thumbnail Border Color"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:278
+msgid "Filmstrip Thumbnail Border Radius"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:279
+msgid "Filmstrip Thumbnail Active Border Width"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:280
+msgid "Filmstrip Thumbnail Active Border Color"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:281
+msgid "Filmstrip Thumbnail Deactive Transparency"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:282
+msgid "Filmstrip Right, Left Buttons Size"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:283
+msgid "Filmstrip Right, Left Buttons Color"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:284
+msgid "Filmstrip Right, Left Button Background Color"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:286
+msgid "Info Position"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:287
+msgid "Info Alignment"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:288
+msgid "Info Background Color"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:289
+msgid "Info Background Transparency"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:290
+msgid "Info border width"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:291
+msgid "Info Border Style"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:292
+msgid "Info Border Color"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:293
+msgid "Info Border Radius"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:294
+msgid "Info Padding"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:295
+msgid "Info Margin"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:297
+msgid "Title Font Color"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:298
+msgid "Title Font Family"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:299
+msgid "Title Font Weight"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:300
+msgid "Title Font Size"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:302
+msgid "Description Font Color"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:303
+msgid "Description Font Family"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:304
+msgid "Description Font Weight"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:305
+msgid "Description Font Size"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:307
+msgid "Comments Width"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:308
+msgid "Comments Position"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:309
+msgid "Comments Background Color"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:310
+msgid "Comments Font Size"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:311
+msgid "Comments Font Color"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:312
+msgid "Comments Font Family"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:313
+msgid "Comments Author Font Size"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:314
+msgid "Users and Hashtag Color"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:315
+msgid "Users and Hashtag Hover Color"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:316
+msgid "Comments Date Font Size"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:317
+msgid "Comments Body Font Size"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:318
+msgid "Comment Input Border Width"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:319
+msgid "Comment Input Border Style"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:320
+msgid "Comment Input Border Color"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:321
+msgid "Comment Input Border Radius"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:322
+msgid "Comment Input Padding"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:323
+msgid "Comment Input Background Color"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:324
+msgid "Comment Button Background Color"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:325
+msgid "Comment Button Padding"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:326
+msgid "Comment Button Border Width"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:327
+msgid "Comment Button Border Style"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:328
+msgid "Comment Button Border Color"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:329
+msgid "Comment Button Border Radius"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:330
+msgid "Comment Separator Width"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:331
+msgid "Comment Separator Style"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:332
+msgid "Comment Separator Color"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:335 admin/views/WDIViewThemes_wdi.php:351
+#: admin/views/WDIViewThemes_wdi.php:367
+msgid "Photo Wrapper Padding"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:336 admin/views/WDIViewThemes_wdi.php:352
+#: admin/views/WDIViewThemes_wdi.php:368
+msgid "Photo Wrapper Border Size"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:337 admin/views/WDIViewThemes_wdi.php:353
+#: admin/views/WDIViewThemes_wdi.php:369
+msgid "Photo Wrapper Border Color"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:338 admin/views/WDIViewThemes_wdi.php:354
+#: admin/views/WDIViewThemes_wdi.php:370
+msgid "Photo border Radius"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:339 admin/views/WDIViewThemes_wdi.php:355
+#: admin/views/WDIViewThemes_wdi.php:371
+msgid "Photo Wrapper Background Color"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:340 admin/views/WDIViewThemes_wdi.php:356
+#: admin/views/WDIViewThemes_wdi.php:372
+msgid "Photo Meta Background Color"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:341 admin/views/WDIViewThemes_wdi.php:357
+#: admin/views/WDIViewThemes_wdi.php:373
+msgid "Same Line For Likes and Comments"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:342 admin/views/WDIViewThemes_wdi.php:358
+#: admin/views/WDIViewThemes_wdi.php:374
+msgid "\"Likes\" Text Color"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:343 admin/views/WDIViewThemes_wdi.php:359
+#: admin/views/WDIViewThemes_wdi.php:375
+msgid "\"Comments\" Text Color"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:344 admin/views/WDIViewThemes_wdi.php:360
+#: admin/views/WDIViewThemes_wdi.php:376
+msgid "Photo Caption Font Size"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:345 admin/views/WDIViewThemes_wdi.php:361
+#: admin/views/WDIViewThemes_wdi.php:377
+msgid "Photo Caption Color"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:346 admin/views/WDIViewThemes_wdi.php:362
+#: admin/views/WDIViewThemes_wdi.php:378
+msgid "Photo Margin"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:347 admin/views/WDIViewThemes_wdi.php:363
+#: admin/views/WDIViewThemes_wdi.php:379
+msgid "Photo Caption Hover Color"
+msgstr ""
+
+#: admin/views/WDIViewThemes_wdi.php:348 admin/views/WDIViewThemes_wdi.php:364
+#: admin/views/WDIViewThemes_wdi.php:380
+msgid "\"Likes\" and \"Comments\" Font Size"
+msgstr ""
+
+#: framework/WDILibrary.php:188 framework/WDILibrary.php:720
+msgid "Search"
+msgstr ""
+
+#: framework/WDILibrary.php:511
+msgid " item(s)"
+msgstr ""
+
+#: framework/WDILibrary.php:516
+msgid "First"
+msgstr ""
+
+#: framework/WDILibrary.php:517
+msgid "Previous"
+msgstr ""
+
+#: framework/WDILibrary.php:518
+msgid "Next"
+msgstr ""
+
+#: framework/WDILibrary.php:519
+msgid "Last"
+msgstr ""
+
+#: framework/WDILibrary.php:537
+msgid "Go to the first page"
+msgstr ""
+
+#: framework/WDILibrary.php:538
+msgid "Go to the previous page"
+msgstr ""
+
+#: framework/WDILibrary.php:540
+msgid "of"
+msgstr ""
+
+#: framework/WDILibrary.php:544
+msgid "Go to the next page"
+msgstr ""
+
+#: framework/WDILibrary.php:545
+msgid "Go to the last page"
+msgstr ""
+
+#: framework/WDILibrary.php:557 frontend/views/WDIViewBlogStyle_view.php:47
+#: frontend/views/WDIViewMasonry_view.php:52
+#: frontend/views/WDIViewThumbnails_view.php:50
+msgid "Load More..."
+msgstr ""
+
+#: framework/WDILibrary.php:762
+msgid "Order by: "
+msgstr ""
+
+#: framework/WDILibrary.php:765
+msgid "Filename"
+msgstr ""
+
+#: framework/WDILibrary.php:766
+msgid "Size"
+msgstr ""
+
+#: framework/WDI_admin_view.php:711
+msgid "Preview"
+msgstr ""
+
+#: frontend/shortcode.php:28
+msgid "Invalid shortcode"
+msgstr ""
+
+#: frontend/shortcode.php:43
+msgid "Access Token is invalid, please get it again"
+msgstr ""
+
+#: frontend/shortcode.php:47
+msgid "Feed Doesn't exists"
+msgstr ""
+
+#: frontend/shortcode.php:67
+msgid "Unable to display unpublished feed"
+msgstr ""
+
+#: frontend/shortcode.php:97
+msgid "Invalid feed type"
+msgstr ""
+
+#: frontend/shortcode.php:144
+msgid "Field is required."
+msgstr ""
+
+#: frontend/shortcode.php:145 frontend/views/WDIViewGalleryBox.php:1225
+msgid "This is not a valid email address."
+msgstr ""
+
+#: frontend/shortcode.php:146
+msgid "There are no images matching your search."
+msgstr ""
+
+#: frontend/views/WDIViewBlogStyle_view.php:39
+#: frontend/views/WDIViewBlogStyle_view.php:52
+#: frontend/views/WDIViewMasonry_view.php:39
+#: frontend/views/WDIViewMasonry_view.php:57
+#: frontend/views/WDIViewThumbnails_view.php:42
+#: frontend/views/WDIViewThumbnails_view.php:55
+msgid "First Page"
+msgstr ""
+
+#: frontend/views/WDIViewBlogStyle_view.php:39
+#: frontend/views/WDIViewBlogStyle_view.php:52
+#: frontend/views/WDIViewMasonry_view.php:39
+#: frontend/views/WDIViewMasonry_view.php:57
+#: frontend/views/WDIViewThumbnails_view.php:42
+#: frontend/views/WDIViewThumbnails_view.php:55
+msgid "Previous Page"
+msgstr ""
+
+#: frontend/views/WDIViewBlogStyle_view.php:39
+#: frontend/views/WDIViewBlogStyle_view.php:52
+#: frontend/views/WDIViewMasonry_view.php:39
+#: frontend/views/WDIViewMasonry_view.php:57
+#: frontend/views/WDIViewThumbnails_view.php:42
+#: frontend/views/WDIViewThumbnails_view.php:55
+msgid "Next Page"
+msgstr ""
+
+#: frontend/views/WDIViewBlogStyle_view.php:39
+#: frontend/views/WDIViewBlogStyle_view.php:52
+#: frontend/views/WDIViewMasonry_view.php:39
+#: frontend/views/WDIViewMasonry_view.php:57
+#: frontend/views/WDIViewThumbnails_view.php:42
+#: frontend/views/WDIViewThumbnails_view.php:55
+msgid "Last Page"
+msgstr ""
+
+#: frontend/views/WDIViewGalleryBox.php:921
+msgid "The image has been deleted."
+msgstr ""
+
+#: frontend/views/WDIViewGalleryBox.php:942
+#: frontend/views/WDIViewGalleryBox.php:2692
+msgid "Play"
+msgstr ""
+
+#: frontend/views/WDIViewGalleryBox.php:946
+#: frontend/views/WDIViewGalleryBox.php:2000
+#: frontend/views/WDIViewGalleryBox.php:2520
+#: frontend/views/WDIViewGalleryBox.php:2616
+msgid "Maximize"
+msgstr ""
+
+#: frontend/views/WDIViewGalleryBox.php:950
+#: frontend/views/WDIViewGalleryBox.php:2002
+#: frontend/views/WDIViewGalleryBox.php:2618
+msgid "Fullscreen"
+msgstr ""
+
+#: frontend/views/WDIViewGalleryBox.php:952
+#: frontend/views/WDIViewGalleryBox.php:2392
+msgid "Show info"
+msgstr ""
+
+#: frontend/views/WDIViewGalleryBox.php:954
+msgid "Show comments"
+msgstr ""
+
+#: frontend/views/WDIViewGalleryBox.php:956
+#: frontend/views/WDIViewGalleryBox.php:2403
+msgid "Show rating"
+msgstr ""
+
+#: frontend/views/WDIViewGalleryBox.php:962
+#: frontend/views/WDIViewGalleryBox.php:963
+msgid "Share on Facebook"
+msgstr ""
+
+#: frontend/views/WDIViewGalleryBox.php:969
+#: frontend/views/WDIViewGalleryBox.php:970
+msgid "Share on Twitter"
+msgstr ""
+
+#: frontend/views/WDIViewGalleryBox.php:976
+#: frontend/views/WDIViewGalleryBox.php:977
+msgid "Share on Google+"
+msgstr ""
+
+#: frontend/views/WDIViewGalleryBox.php:983
+#: frontend/views/WDIViewGalleryBox.php:984
+msgid "Share on Pinterest"
+msgstr ""
+
+#: frontend/views/WDIViewGalleryBox.php:990
+#: frontend/views/WDIViewGalleryBox.php:991
+msgid "Share on Tumblr"
+msgstr ""
+
+#: frontend/views/WDIViewGalleryBox.php:998
+msgid "Open image in Instagram."
+msgstr ""
+
+#: frontend/views/WDIViewGalleryBox.php:1026
+msgid "Download original image"
+msgstr ""
+
+#: frontend/views/WDIViewGalleryBox.php:1218
+msgid "Error. Incorrect Verification Code."
+msgstr ""
+
+#: frontend/views/WDIViewGalleryBox.php:1233
+#: frontend/views/WDIViewGalleryBox.php:2214
+msgid "Hide Comments"
+msgstr ""
+
+#: frontend/views/WDIViewGalleryBox.php:1244
+#: frontend/views/WDIViewGalleryBox.php:1266
+#: frontend/views/WDIViewGalleryBox.php:1273
+msgid "Email"
+msgstr ""
+
+#: frontend/views/WDIViewGalleryBox.php:1251
+#: frontend/views/WDIViewGalleryBox.php:1266
+#: frontend/views/WDIViewGalleryBox.php:1273
+msgid "Comment"
+msgstr ""
+
+#: frontend/views/WDIViewGalleryBox.php:1256
+msgid "Verification Code"
+msgstr ""
+
+#: frontend/views/WDIViewGalleryBox.php:1279
+msgid "Submit"
+msgstr ""
+
+#: frontend/views/WDIViewGalleryBox.php:1280
+msgid "Your comment is awaiting moderation"
+msgstr ""
+
+#: frontend/views/WDIViewGalleryBox.php:2388
+msgid "Hide info"
+msgstr ""
+
+#: frontend/views/WDIViewGalleryBox.php:2399
+msgid "Hide rating"
+msgstr ""
+
+#: frontend/views/WDIViewGalleryBox.php:2557
+#: frontend/views/WDIViewGalleryBox.php:2765
+msgid "Restore"
+msgstr ""
+
+#: frontend/views/WDIViewGalleryBox.php:2671
+msgid "Exit Fullscreen"
+msgstr ""
+
+#: frontend/views/WDIViewGalleryBox.php:2686
+#: frontend/views/WDIViewGalleryBox.php:2703
+msgid "Pause"
+msgstr ""
+
+#: instagram-wd.php:126
+msgid "Configure"
+msgstr ""
+
+#: instagram-wd.php:154
+msgid "Instagram WDI"
+msgstr ""
+
+#: instagram-wd.php:157
+msgid "Settings"
+msgstr ""
+
+#: instagram-wd.php:216
+msgid "All the data will be removed from the database. Continue?"
+msgstr ""
+
+#: instagram-wd.php:217
+msgid "Some error with instagram servers, try agian later :("
+msgstr ""
+
+#: instagram-wd.php:218
+msgid "Invalid user:"
+msgstr ""
+
+#: instagram-wd.php:219
+msgid "Already added!"
+msgstr ""
+
+#: instagram-wd.php:220
+msgid "User does not exist."
+msgstr ""
+
+#: instagram-wd.php:221
+msgid "Network Error, please try again later. :("
+msgstr ""
+
+#: instagram-wd.php:222
+msgid "Invalid hashtag"
+msgstr ""
+
+#: instagram-wdi-notices.php:200
+msgid "Leave A Review?"
+msgstr ""
+
+#: instagram-wdi-notices.php:201
+#, php-format
+msgid ""
+"We hope you've enjoyed using WordPress %s! Would you consider leaving us a "
+"review on WordPress.org?"
+msgstr ""
+
+#: instagram-wdi-notices.php:202
+msgid "Sure! I'd love to!"
+msgstr ""
+
+#: instagram-wdi-notices.php:203
+msgid "I've already left a review"
+msgstr ""
+
+#: instagram-wdi-notices.php:204
+msgid "Maybe Later"
+msgstr ""
+
+#: instagram-wdi-notices.php:205 instagram-wdi-notices.php:215
+msgid "Never show again"
+msgstr ""
+
+#: instagram-wdi-notices.php:211
+msgid "Hey! How's It Going?"
+msgstr ""
+
+#: instagram-wdi-notices.php:212
+#, php-format
+msgid ""
+"Thank you for using WordPress %s! We hope that you've found everything you "
+"need, but if you have any questions:"
+msgstr ""
+
+#: instagram-wdi-notices.php:213
+msgid "Check out User Guide"
+msgstr ""
+
+#: instagram-wdi-notices.php:214
+msgid "Get Some Help"
+msgstr ""
+
+#: update/update.php:22
+msgid "Instagram WD description."
+msgstr ""
+
+#: update/update.php:78
+msgid "Updates"
+msgstr ""
+
+#: update/update.php:116
+#, php-format
+msgid ""
+"You can download the latest version of your plugins from your %s account.\n"
+"            After deactivate and delete the current version.\n"
+"            Install the downloaded latest version of the plugin."
+msgstr ""
+
+#: update/update.php:152
+#, php-format
+msgid "Current version %s"
+msgstr ""
+
+#: update/update.php:158 update/update.php:230
+#, php-format
+msgid "There is a new %s version"
+msgstr ""
+
+#: update/update.php:160 update/update.php:212
+msgid "What's new:"
+msgstr ""
+
+#: update/update.php:177 update/update.php:253
+msgid "More updates"
+msgstr ""
+
+#: update/update.php:182 update/update.php:217
+#, php-format
+msgid "%s is up to date."
+msgstr ""
+
+#: update/update.php:250
+msgid "Show less"
+msgstr ""
+
+#~ msgid "Close Button: "
+#~ msgstr "Кнопка Закрыть"

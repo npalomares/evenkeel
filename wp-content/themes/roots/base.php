@@ -29,7 +29,11 @@
 
     <div class="interior-banner-wrap">
       <div class="interior-banner container">
-        <h2 class="page-title text-center"><?php the_title(); ?></h2>
+        <?php if( is_home() ) { ?>
+          <h2 class="page-title text-center">Blog</h2>
+        <?php } else { ?>
+          <h2 class="page-title text-center"><?php the_title(); ?></h2>
+        <?php } ?>  
       </div>
     </div>
 
@@ -53,10 +57,12 @@
 
   <section class="post-content-wrap">
     <div class="inner-post-content container text-center">
-      <?php dynamic_sidebar('sidebar-footer-a'); ?>
-      <?php dynamic_sidebar('sidebar-footer-b'); ?>
-      <?php dynamic_sidebar('sidebar-footer-c'); ?>
-      <?php dynamic_sidebar('sidebar-footer-d'); ?>
+      <div class="row">
+        <?php dynamic_sidebar('sidebar-footer-a'); ?>
+        <?php dynamic_sidebar('sidebar-footer-b'); ?>
+        <?php dynamic_sidebar('sidebar-footer-c'); ?>
+        <?php dynamic_sidebar('sidebar-footer-d'); ?>
+      </div>
     </div>
   </section>
 
