@@ -93,8 +93,15 @@ aside { }
 
 
 /*About Us Page*/
-body.about .left {
+body.page-id-12 .left {
 	padding-left: 0;
+}
+body.page-id-12 .social-link {
+	text-indent: -9999px;
+	width: 30px;
+	height: 40px;
+	background: #CCC;
+	margin-right: 10px;
 }
 
 
