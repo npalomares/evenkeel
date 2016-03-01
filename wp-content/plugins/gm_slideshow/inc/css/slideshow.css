@@ -24,7 +24,7 @@
    text-transform: uppercase;
    font-weight: bold;
    border: 1px solid #ededed;
-   background-color: #f49eb7;
+   background-color: #555;
 }
 .slideshow-wrap .slideshow .button-bar .carousel-indicators h3 {
    margin: 0;
@@ -38,7 +38,7 @@
 }
 .slideshow-wrap .slideshow .button-bar .carousel-indicators li:hover,
 .slideshow-wrap .slideshow .button-bar .carousel-indicators li.active {
-   background-color: #ed1d5a;
+   background-color: #CCC;
    color: #fff;
 }
             
